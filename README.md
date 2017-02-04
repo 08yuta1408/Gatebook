@@ -1,24 +1,5 @@
-# README
+# Progate学習で学んだことの復習用
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ユーザーが投稿した内容を表示，編集，削除できるようにする．
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+データベース，ルーティング，名前付きルートを理解する．
