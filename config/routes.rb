@@ -5,6 +5,7 @@ Rails.application.routes.draw do
   get '/notes/:id' => 'notes#show', as: 'note'
   get '/notes/:id/edit' => 'notes#edit', as: 'note_edit'
   patch '/notes/:id' => 'notes#update', as: 'note_update'
+  delete '/notes/:id' => 'notes#destroy', as: 'note_destroy'
 
   root 'home#top'
   get '/about' => 'home#about'
